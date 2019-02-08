@@ -1,6 +1,6 @@
 # parser
-→ scanner and parser written using python 
--->Required to install anytree module using this command :  pip install anytree
+    → scanner and parser written using python 
+    -->Required to install anytree module using this command :  pip install anytree
 
 The program reads the input from a file called (simpleTest)
 it scans and parses it according to grammer rules of  TINY LANGUAGE
